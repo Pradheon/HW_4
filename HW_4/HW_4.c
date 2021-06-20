@@ -1,7 +1,7 @@
 // Name: Joshan Rai
 // Class: CS110
 // Assign.: Homework #04
-// Synop.: State transition function, state changes unti end of state has been reached.
+// Synop.: State transition function, state changes until end of state has been reached.
 
 #include <stdio.h>
 #include <stdlib.h>
